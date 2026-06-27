@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <strong>Estudante de analise e desenvolvmento de sistemas(ads) e sonhador</strong>
+    <strong>Estudante de analise e desenvolvmento de sistemas(ads) na Falculdade Flamingo, busco minha primeira oportunidade</strong>
   </p>
 </div>
 
