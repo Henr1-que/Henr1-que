@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Henrique Borelli!
 
 <div align="center">
-  <img src="https://komarev.com/normal-badge.php?vname=Henr1-que&style=flat-square&color=blue" alt="Henr1-que" />
-  <br />
   <p align="center">
     <strong>Estudante de analise e desenvolvmento de sistemas(ads) e sonhador</strong>
   </p>
